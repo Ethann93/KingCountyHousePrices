@@ -9,7 +9,7 @@ Welcome to the King County House Sales Dashboard! This interactive dashboard pro
 
 ## Dashboard Features
 
-###Sales Trends
+### Sales Trends
 
 - Explore historical sales data to understand the overall trends in the King County housing market.
 - Visualize changes in the number of sales over time.
