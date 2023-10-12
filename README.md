@@ -52,4 +52,4 @@ If you have any feedback, questions, or suggestions, please feel free to contact
 Enjoy exploring the King County housing market data!
 
 
-![image](https://github.com/Ethann93/KingCountyHousePrices/assets/133777296/9a4b3265-fef6-4d5a-a9b7-631d1ad26683)
+
